@@ -4,16 +4,18 @@ Programs for the UNC/Duke Digital governance Oceans Lab
 ## Table of Contents
 - Cleaning programs
   - TODO: Partner column cleaning
-  - TODO: Category cleaning for Sankey viz
+  - Category 
 - Visualization tools
-  - d3 Sankey graph
+  - TODO: d3 Sankey graph
   - TODO: d3 network graph
+- Exploratory analysis tools
   - Python network 
     - Graph generation through networkx, display through Dash (Plotly's web app interface)
     - Tools for descriptive statistics
+  - Barebones Sankey graph in R
 
 ## Organization and Access
-Right now, all programs are organized by two overarching categories: cleaning and visualization. Each category is further broken down into tasks (a specific type of visualization, a specific research question, or a specific type of cleaning), which form the main blocks of the repository. 
+Right now, all programs are organized by three overarching categories: data cleaning, exploratory analysis, and public visualization. Each category is further broken down into tasks (a specific type of visualization, a specific type of exploratory analysis, or a specific type of cleaning), which form the main blocks of the repository. 
 Each task may include multiple scripts, so they have a separate README.md file with contents (Features and Functionality), instructions for use (Data and Required Packages), and next steps (Open Issues).
 Each task has three folders: src (source code), data (cleaned data), and docs (program documentation). 
 
@@ -40,4 +42,4 @@ To add a new program:
 - Integrate Docker environments so people can run without setting up their own
   - How does this work with R packages like networkd3?
 - Ideally include Colab integration
-
+- Change file paths in Python programs

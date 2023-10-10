@@ -1,0 +1,246 @@
+{"nodes": 
+    [
+        {
+            "node": 0,
+            "name": "Philanthropic",
+            "score": 0.23520599250936333
+        },
+        {
+            "node": 1,
+            "name": "Government",
+            "score": 0.64812734082397
+        },
+        {
+            "node": 2,
+            "name": "Public Donors and Sponsorships",
+            "score": 0.055430711610486905
+        },
+        {
+            "node": 3,
+            "name": "Special Interest",
+            "score": 0.02078651685393259
+        },
+        {
+            "node": 4,
+            "name": "Product Sales",
+            "score": 0.023595505617977533
+        },
+        {
+            "node": 5,
+            "name": "Corporate",
+            "score": 0.016853932584269666
+        },
+        {
+            "node": 6,
+            "name": "NGO/Non-profit",
+            "score": 0.29213483146067415
+        },
+        {
+            "node": 7,
+            "name": "international state-sponsored",
+            "score": 0.11235955056179775
+        },
+        {
+            "node": 8,
+            "name": "intergovernmental",
+            "score": 0.30337078651685395
+        },
+        {
+            "node": 9,
+            "name": "national government",
+            "score": 0.11235955056179775
+        },
+        {
+            "node": 10,
+            "name": "university-based research centers",
+            "score": 0.15730337078651685
+        },
+        {
+            "node": 11,
+            "name": "corporate",
+            "score": 0.02247191011235955
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 6,
+            "score": 0.08988764044943824
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "score": 0.01910112359550562
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "score": 0.05430711610486893
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "score": 0.01685393258426967
+        },
+        {
+            "source": 0,
+            "target": 10,
+            "score": 0.049438202247191025
+        },
+        {
+            "source": 0,
+            "target": 11,
+            "score": 0.00561797752808989
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "score": 0.15730337078651688
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "score": 0.08089887640449439
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "score": 0.22003745318352058
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "score": 0.08988764044943821
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "score": 0.08314606741573034
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "score": 0.016853932584269666
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "score": 0.03370786516853933
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "score": 0.0022471910112359557
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "score": 0.009363295880149813
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "score": 0.005617977528089888
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "score": 0.004494382022471911
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "score": 0.0
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "score": 0.011235955056179777
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "score": 0.0022471910112359557
+        },
+        {
+            "source": 3,
+            "target": 8,
+            "score": 0.002808988764044944
+        },
+        {
+            "source": 3,
+            "target": 9,
+            "score": 0.0
+        },
+        {
+            "source": 3,
+            "target": 10,
+            "score": 0.004494382022471911
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "score": 0.0
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "score": 0.0
+        },
+        {
+            "source": 4,
+            "target": 7,
+            "score": 0.0022471910112359553
+        },
+        {
+            "source": 4,
+            "target": 8,
+            "score": 0.011235955056179777
+        },
+        {
+            "source": 4,
+            "target": 9,
+            "score": 0.0
+        },
+        {
+            "source": 4,
+            "target": 10,
+            "score": 0.010112359550561799
+        },
+        {
+            "source": 4,
+            "target": 11,
+            "score": 0.0
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "score": 0.0
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "score": 0.005617977528089888
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "score": 0.005617977528089888
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "score": 0.0
+        },
+        {
+            "source": 5,
+            "target": 10,
+            "score": 0.005617977528089888
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "score": 0.0
+        }
+    ]
+}

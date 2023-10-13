@@ -3,6 +3,7 @@
 ## Functionality and Features
 **Python Partner Cleaning** *partner_cleaner.ipynb*
 Cleans the partners data into something more machine-readable. Removing extraneous text, semicolon separators on the rows that were comma-separated, etc. 
+Uses fuzzy matching to point out identical organizations which might be coded differently. Remaining differences are in *partner_matches.csv.*
 
 
 ## Data and Required Packages
@@ -12,4 +13,4 @@ Required packages: Pandas
 
 ## Tasks and Open Issues
 **Python Partner Cleaning**
-I think (hope) that the only major step left is to set a canonical version of each org/entry and force all others to conform. There are basic ML libraries that do this (sklearn).
+A bunch of orgs are still showing up (even ones with > 95 similarity scores) and I'm not sure why. I think I got a good 80% of the way there, though.

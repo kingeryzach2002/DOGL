@@ -3,8 +3,10 @@ Programs for the UNC/Duke Digital governance Oceans Lab
 
 ## Table of Contents
 - Cleaning programs
-  - TODO: Partner column cleaning
-  - Category 
+  - Table cleaning in Python
+    - Partner cleaning using fuzzy matching
+  - Data conversion tools
+    - csv to json in Python
 - Visualization tools
   - TODO: d3 Sankey graph
   - TODO: d3 network graph

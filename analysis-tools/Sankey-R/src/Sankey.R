@@ -2,9 +2,9 @@ library(networkD3)
 library(jsonlite)
 
 # Import data
-json_path <- '/Users/zfrancis/Documents/Personal_Work_Stuff/programs/odsi/python/internal_support/sankey_data.json' # Replace with your path
+json_path <- '/Users/zfrancis/Documents/Personal_Work_Stuff/programs/odsi/DOGL_Repo/DOGL/analysis-tools/Sankey-R/data/sankey_data_test.json' # Replace with your path
+
 categories <- fromJSON(json_path)
-print(categories)
 
 # Plot
 sankeyNetwork(

@@ -45,3 +45,6 @@ To add a new program:
   - How does this work with R packages like networkd3?
 - Ideally include Colab integration
 - Change file paths in Python programs
+
+## Ideas for new programs
+- Add 2-axis categorical graph tool 

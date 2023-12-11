@@ -1,56 +1,50 @@
 ,Org1,Org2,Score
-13,General Fisheries Commission For The Mediterranean (GFCM),General Fisheries Commission in the Mediterranean (GFCM),97
-23,University of California Santa Barbara (UCSB),University of California at Santa Barbara,96
 0,Pacific Islands Forum Fisheries Agency Regional Fisheries Surveillance CenterÊ,Pacific Islands Forum Fisheries Agency (FFA),95
-5,National Aeronautic and Space Administration (NASA) Ames,US National Aeronautics and Space Administration (NASA),95
-8,REV Oceans,REV Ocean,95
-27,UNESCO International Oceanographic Data and Information Exchange (IODE),International Oceanographic Data and Information Exchange Program (IODE),95
-37,National Institute of Oceanography (NIO),National Institute of Oceanography and Applied Geophysics – OGS,94
-50,Institute of Marine Research,National Institute for Marine Research and Development (NIMRD),94
-9,International Science Council (ISC),International Council for Science (ICSU),94
-49,Institute of Marine Research,Marine and Freshwater Research Institute (MFRI),94
-46,Alfred-Wegener-Institute for Polar- and Marine Research,Institute of Marine Research,94
-12,National Oceanic & Atmospheric Administration (NOAA),National Oceanographic & Atmospheric Administration (NOAA),94
-39,Nigerian Institute for Oceanography & Marine Research (NIOMR),Institute of Marine Research,94
-38,National Institute of Oceanography (NIO),National Institute of Oceanography and Applied Geophysics (OGS),94
-25,Ocean Carbon & Biogeochemistry (OCB) Project Office Woods Hole Oceanographic Institution,Woods Hole Oceanographic Institution (WHOI),94
-35,Alfred-Wegener-Institute (AWI) Helmholtz centre for polar and marine research,Institute of Marine Research,94
-34,"Institute of Oceanology, Chinese Academy of Sciences (IOCAS)","South China Sea Institute of Oceanology, Chinese Academy of Sciences (SCSIO)",94
-7,International Seabed Authority (ISA),International Seabed Authority DeepData Database,94
+6,REV Oceans,REV Ocean,95
+21,UNESCO International Oceanographic Data and Information Exchange (IODE),International Oceanographic Data and Information Exchange Program (IODE),95
+33,Nigerian Institute for Oceanography & Marine Research (NIOMR),Institute of Marine Research,94
+19,Ocean Carbon & Biogeochemistry (OCB) Project Office Woods Hole Oceanographic Institution,Woods Hole Oceanographic Institution (WHOI),94
+28,"Institute of Oceanology, Chinese Academy of Sciences (IOCAS)","South China Sea Institute of Oceanology, Chinese Academy of Sciences (SCSIO)",94
+29,Alfred-Wegener-Institute (AWI) Helmholtz centre for polar and marine research,Institute of Marine Research,94
+31,National Institute of Oceanography (NIO),National Institute of Oceanography and Applied Geophysics – OGS,94
+32,National Institute of Oceanography (NIO),National Institute of Oceanography and Applied Geophysics (OGS),94
+10,National Oceanic & Atmospheric Administration (NOAA),National Oceanographic & Atmospheric Administration (NOAA),94
+40,Alfred-Wegener-Institute for Polar- and Marine Research,Institute of Marine Research,94
+7,International Science Council (ISC),International Council for Science (ICSU),94
+43,Institute of Marine Research,Marine and Freshwater Research Institute (MFRI),94
+44,Institute of Marine Research,National Institute for Marine Research and Development (NIMRD),94
 2,United Nations Environment Programme (UNEP),United Nations (UN) Environment Programme World Conservation Monitoring Centre,94
-21,European Commission (EC) - DG ENV,European Commission (EC) - DG MARE,93
-22,the National Science Foundation's National Center for Atmospheric Research (NCAR),National Science Foundation (NSF),93
-6,Ocean Observatories InitiativeÊ- National Science Foundation funded (OOI),National Science Foundation (NSF),93
+5,Ocean Observatories InitiativeÊ- National Science Foundation funded (OOI),National Science Foundation (NSF),93
 1,Scientific Committee on Oceanic Research (SCOR),Scientific Community on Oceanic Research (SCOR),93
-29,"NOCS National Oceanography Centre, Southampton UK",National Oceanography Centre (NOC),93
-26,IOC-UNESCO’s International Oceanographic Data and Information (IODE) programme,UNESCO International Oceanographic Data and Information Exchange (IODE),93
-30,Global Earth Observing System of Systems (GEOSS),Global Earth Observing System (GOOD),92
-24,U.S. Antarctic Program (USAP),the US Antarctic Program Data Center (USAP-DC),92
-19,University of California Santa Cruz,University of California Santa Barbara,92
-18,University of California Santa Cruz,University of California Santa Barbara (UCSB),92
-10,Alfred Wegener Institute (AWI),Alfred-Wegener-Institute for Polar- and Marine Research,92
-16,United Nations (UN) Environment Programme World Conservation Monitoring Centre,UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC),92
-20,University of California Santa Cruz,University of California at Santa Barbara,92
-43,Institute of Marine Resources,Marine Institute (MI),91
-53,Marine Institute (MI),National Institute for Marine Research and Development (NIMRD),91
-52,Marine Institute (MI),Marine Systems Institute (MSI),91
-51,Marine Institute (MI),Marine and Freshwater Research Institute (MFRI),91
-4,National Oceanic and Atmospheric Administration (NOAA),National Oceanographic & Atmospheric Administration (NOAA),91
-48,Institute of Marine Research,Marine Institute (MI),91
-47,Alfred-Wegener-Institute for Polar- and Marine Research,Marine Institute (MI),91
-11,CSIC-ICM/Institute of Marine Sciences (CSIC-ICM),Marine Institute (MI),91
-45,Middle East Technical University Institute of Marine Sciences (METU-IMS),Marine Institute (MI),91
-44,"Hellenic Centre for Marine Research, Institute of Oceanography (HCMR/IO)",Marine Institute (MI),91
-40,Nigerian Institute for Oceanography & Marine Research (NIOMR),Marine Institute (MI),91
-42,Institute for Marine Remote Sensing,Marine Institute (MI),91
-41,Australian Institute of Marine Science,Marine Institute (MI),91
+16,European Commission (EC) - DG ENV,European Commission (EC) - DG MARE,93
+17,the National Science Foundation's National Center for Atmospheric Research (NCAR),National Science Foundation (NSF),93
+23,"NOCS National Oceanography Centre, Southampton UK",National Oceanography Centre (NOC),93
+20,IOC-UNESCO’s International Oceanographic Data and Information (IODE) programme,UNESCO International Oceanographic Data and Information Exchange (IODE),93
+24,Global Earth Observing System of Systems (GEOSS),Global Earth Observing System (GOOD),92
+15,University of California Santa Cruz,University of California Santa Barbara (UCSB),92
+13,United Nations (UN) Environment Programme World Conservation Monitoring Centre,UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC),92
+8,Alfred Wegener Institute (AWI),Alfred-Wegener-Institute for Polar- and Marine Research,92
+18,U.S. Antarctic Program (USAP),the US Antarctic Program Data Center (USAP-DC),92
+22,"BERGEN University Of Bergen Geophysical Institute, NO",University of Bergen (UiB),91
+37,Institute of Marine Resources,Marine Institute (MI),91
+47,Marine Institute (MI),National Institute for Marine Research and Development (NIMRD),91
+46,Marine Institute (MI),Marine Systems Institute (MSI),91
+45,Marine Institute (MI),Marine and Freshwater Research Institute (MFRI),91
 3,Nature Conservancy (TNC),The Nature Conservancy,91
-14,"Global Coral Reef Monitoring Network host institution, Australian Institute of Marine Sciences",Marine Institute (MI),91
-15,United Nations (UN) Environment Programme World Conservation Monitoring Centre,the United Nations Environmental Programme’s World Conservation Monitoring Centre (UNEP-WCMC),91
-36,Alfred-Wegener-Institute (AWI) Helmholtz centre for polar and marine research,Marine Institute (MI),91
-17,the Marine Conservation Biology Institute (MCBI),Marine Institute (MI),91
-33,Flanders Marine Institute (VLIZ),Marine Institute (MI),91
-32,Institute for Marine and Antarctic Studies (IMAS),Marine Institute (MI),91
-31,Australian Institute of Marine Science (AIMS),Marine Institute (MI),91
-28,"BERGEN University Of Bergen Geophysical Institute, NO",University of Bergen (UiB),91
-54,European Ocean Biodiversity System (EurOBIS),Ocean Biodiversity System (OBIS),91
+4,National Oceanic and Atmospheric Administration (NOAA),National Oceanographic & Atmospheric Administration (NOAA),91
+42,Institute of Marine Research,Marine Institute (MI),91
+41,Alfred-Wegener-Institute for Polar- and Marine Research,Marine Institute (MI),91
+39,Middle East Technical University Institute of Marine Sciences (METU-IMS),Marine Institute (MI),91
+38,"Hellenic Centre for Marine Research, Institute of Oceanography (HCMR/IO)",Marine Institute (MI),91
+35,Australian Institute of Marine Science,Marine Institute (MI),91
+36,Institute for Marine Remote Sensing,Marine Institute (MI),91
+34,Nigerian Institute for Oceanography & Marine Research (NIOMR),Marine Institute (MI),91
+9,CSIC-ICM/Institute of Marine Sciences (CSIC-ICM),Marine Institute (MI),91
+11,"Global Coral Reef Monitoring Network host institution, Australian Institute of Marine Sciences",Marine Institute (MI),91
+12,United Nations (UN) Environment Programme World Conservation Monitoring Centre,the United Nations Environmental Programme’s World Conservation Monitoring Centre (UNEP-WCMC),91
+30,Alfred-Wegener-Institute (AWI) Helmholtz centre for polar and marine research,Marine Institute (MI),91
+14,the Marine Conservation Biology Institute (MCBI),Marine Institute (MI),91
+27,Flanders Marine Institute (VLIZ),Marine Institute (MI),91
+26,Institute for Marine and Antarctic Studies (IMAS),Marine Institute (MI),91
+25,Australian Institute of Marine Science (AIMS),Marine Institute (MI),91
+48,European Ocean Biodiversity System (EurOBIS),Ocean Biodiversity System (OBIS),91

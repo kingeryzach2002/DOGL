@@ -29,6 +29,7 @@ Partnership network graph, totally non-interactive but good enough for basic ana
 - The Dash framework is really bad at doing anything interactive. There's a bunch of code that was built for interactive features that I ended up abandoning, but I don't remember what that is and I'm scared to get rid of it in case it breaks something else (glad I'm getting better at this).
 
 **Partner network summary** 
+- It's reading zeroes as ones. Argh!
 - Boxplots would be a good visualization in addition to histograms
 - Could use Plotly instead of networkx
 - Also might be easier to do this in R after I create a json converter like the Sankey one (I'll need to do it anyway for d3)
